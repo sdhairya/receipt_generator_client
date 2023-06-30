@@ -63,8 +63,6 @@ class _receiptListState extends State<receiptList> {
                 onTap: () async {
                   setState(() {
                   });
-                  // printDoc(date, time, bytes);
-
                 },
                 child: Icon(Icons.save),
               ))
